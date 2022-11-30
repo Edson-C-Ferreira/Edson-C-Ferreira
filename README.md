@@ -4,8 +4,8 @@
 
 <div align="center">
   <a href="https://github.com/Edson-C-Ferreira">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=Edson-C-Ferreira&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edson-C-Ferreira&layout=compact&langs_count=7&theme=jolly"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Edson-C-Ferreira&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edson-C-Ferreira&layout=compact&langs_count=7&theme=jolly"/>
 </div>
 <div style="display: inline_block"><br>   
   <img align="center" alt="Edson-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
