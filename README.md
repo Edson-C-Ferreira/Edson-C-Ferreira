@@ -1,7 +1,6 @@
-## Iae dev, Edson aqui! 😄
+## Iae dev, Edson aqui!
 
--👨‍💻 Não é a linguagem, mas sim a lógica!!!
-
+-👨‍💻 Bora programar 😁❓
 
 <div align="center">
   <a href="https://github.com/Edson-C-Ferreira">
