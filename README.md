@@ -2,7 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF00FF&size=30&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Edson+Ferreira;I'm+23+years+old;I+from+Brasil,+MA;I+study+cience+computer+at+UFMA;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
--👨‍💻 Bora programar 😁❓
+- 👨‍💻 Bora programar 😁
+- "Não existem métodos fáceis para resolver problemas difíceis"
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=edsonfe&show_icons=true&count_private=true&hide_border=true&title_color=FF00FF&icon_color=FF00FF&text_color=c9d1d9&bg_color=0d1117" alt="Edson Ferreira github stats" /> 
