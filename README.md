@@ -5,9 +5,11 @@
 - 👨‍💻 Bora programar 😁
 - "Não existem métodos fáceis para resolver problemas difíceis"
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=edsonfe&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Edson Ferreira github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonfe&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+<div>
+  <a href="https://github.com/rafaballerini">
+    <img height="140cm" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true$theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="140cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=168theme=dracula"/>
+
 
 </div>
 
