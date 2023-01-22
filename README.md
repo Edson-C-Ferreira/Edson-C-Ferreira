@@ -17,7 +17,7 @@
   <img align="center" alt="Edson-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Edson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Edson-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="right" alt="Edson-pic" height="150" style="border-radius:50px;" src="">
+  <img align="right" alt="Edson-pic" height="150" style="border-radius:50px;" src="https://lh3.googleusercontent.com/ZunZZt7Ww0qCW6HC_-_LvKcgS4MtikArACOrzimQ1myin8xhRmVzFy-RS9KlS610yUMuGUAwArNAca0puIUW6-mCiIQfHOSl5eNLPgZUl3MzG20ygREYcz1MCTNolTXi5pEQwP83yvn0X93lBSy0bLnUp0WYBc5QuMzPnuxv5py4ExTgshwQPapB47UrpQJ1W5iKryZTzTDYKB_H76maS6VQ6yWxXfqb_JmNvT53VPP4olTInOKWiHAuGIn9p6V1IAs0WkYnoyp8FnqTZFfeG4PmkfPCcLumxXdVD99ygyEspCQOneGjkfxRWT4mZqzW_03EfFwIw5JuFcSoOwKr3zaJFWaRw28BUA5jJGT_kqswpkd2r2HXKTxXgjgqQTsDcPgxKgDHIFocM3BV_YfeMIt_KvHWF7LcJoepSnnnQ5SDLJyP1rTaeWTqfmZ2yFHzB2xWZ1PSI2WhHj4Zjp4vXUa4CCl5bwjC5eGzs6vU3Rflpy_Q3LGsYdjbP5NxJdTbQsoT5NFOvfRtoK27U0jxAHvPIuhZNtDUF73QBBTbgu2GAVBqoDnoWED5YMGSPhqroBn9pAKHxYyGeXk9TvFr6usciil2sjLun1pjrztYgYuvnx7m5ya6Bc_eTLUWreONs6ixuX5_6pi6SemR7XSdnOJJ6Y79y91hjW54VklzcIBcvH8YQ9LW-blna_U_nm5nbUPCxRRzpciwb-uzWFST08WGETVRMYocc_TBl1JDMXnOEZCywSfJbdfoSGPH59fvLdoBahb4F9AJObL_NWc4NX8LJEQQUjb50igbjfOhmv-EVN9NlzXCDeS4HEL_7UCbOEidJSPEuqHY9QBQLLGOlPoy8t98QB31WGYjYqA5D12aGPj_D8qhRiGj7dYr6K5s1nXLEcTGUmaYcQ19sxiddaip9Ko5nQLtrt5od5my24rJ-f6JnQIvLMEct0NsXc0opMEUwOsVEfeQz0HxpXQ=s484-no?authuser=0">
 </div>
   
   ##
