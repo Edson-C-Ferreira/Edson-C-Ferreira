@@ -17,11 +17,10 @@
   <img align="center" alt="Edson-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Edson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Edson-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="right" alt="Edson-pic" height="150" style="border-radius:50px;" src="">
+  <img align="right" alt="Edson-pic" height="150" style="border-radius:50px;" src="https://lh3.googleusercontent.com/pw/AMWts8CYhVQ8mobjq7V1FVmXw12PVJ3lucLCuoMX1rKXnqanW9WR2tlK4sQYFsVZFzd65zcuMIMFWvZWnNESyluT3kgpMAEeCVdzR8CnS9SlYoq7QPPZeX7SXOnPit2fXxe_gvlbsT-s9fdH8QjvVgzNmnelVsIGgZWb5x3pcABjaXZmL4p2DKcEPv252MCY5ST4iZdL-i8RyAKRnptEgKoS-MMYXzI1oSt81yFyICEaRPkCyH-R6m_BXbE6EwQFV3V2qAUQ5qYuHkRjaEIMJXsMO9BriCQuuVO13hb-k0cVkwFN3fUx-KkM1SxJ5Q4Q2GzF0p4WsP7AtMNbGATAqaqwGM96jgrKZ0tWweG-Pu6_5UbU6XzaO4tbKatc_0YIm7ExcHDNhgu3gdCfbHVXD7C9UAdkFpnLv5LsHwA3BgYadbAChv0fFM7JfDXDWhETbCnw89GAEFRvyAeSRwsfoLvrMedC2-fMzgOZ0S8xr6A-wfX5t00Yj3lKtfjx0wn3qzC1HETCakEb9_R33v6vwSVNjaKWJdTkhDwzdN02hdOHKMnr7MQEYG0BqtPDqKiwepXiwQrFFQg_9SjiL90QbMfFyGRgkB1bcv8pYOnhuBYAntp2p-OSlE2UDC_y4UAW7hhVybg6-l22cqUim6KkJ-2V0Uj8KYR9jPsCwMl_1riW4kAJofo5pLATOWAj6B7A6b19Icc4uZfiKyMSaJep4lxAHt2WohQRo9se3J6BsxNGG-diSuCyqIu_274OTmmIhoLTj4FjV9ZUDEI-6nBzR2rZ07xoBiS0k-4eDQHfsKKk81OVnoKoujZu4Gzz5-SqpeogFm8iOEBoBTrMa-qMs_HZZYec0UBTXBdronStz2OTDe5292MhFNHvyQW3S-SzLcxQjAb2Hkh52IOVSfFMDTSvoMMj_EBPwE5RetVu8usGCqwMwGrBcbjhGB8qAAH-=s512-no?authuser=0">
 </div>
   
   ##
-
  
 <div> 
   <a href = "mailto:edsonferreira.ec007@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
