@@ -17,7 +17,7 @@
   <img align="center" alt="Edson-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Edson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Edson-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="right" alt="Edson-pic" height="150" style="border-radius:50px;" src= >
+  <img align="right" alt="Edson-pic" height="150" style="border-radius:50px;" src= https://photos.google.com/album/AF1QipPaLYhyJx7fCrxytZoyEIAY4P5wmhMnXFHDU3tK/photo/AF1QipMJu2-cO5RG6ZlRDP7HkLV7EFfrghQ5bVW7YPzY>
 </div>
   
   ##
