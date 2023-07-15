@@ -2,8 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF00FF&size=30&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Edson+Ferreira;I'm+24+years+old;I+from+Brasil,+MA;I+study+cience+computer+at+UFMA;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-- 👨‍💻 Bora programar 😁
-- "Não existem métodos fáceis para resolver problemas difíceis"
+- 👨‍💻 Bora programar? 😁
+- "Não existem métodos fáceis para resolver problemas difíceis, então pegue um café e vamos codar 💻"
+- café, coffee, Kaffee, caffè, koffie, кофе, kōhī, kāfēi, keopi, qahwa....☕
+            
+     
+
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=edsonfe&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Edson Carlos Ferreira github stats" /> 
