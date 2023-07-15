@@ -16,7 +16,7 @@
   <img align="center" alt="Edson-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Edson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Edson-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="right" alt="Edson-pic" height="150" style="border-radius:50;" src="https://lh3.googleusercontent.com/pw/AIL4fc_nqKe-H33nxDtAdug-8ixUPDTxXYA6_6xZ7o5OfqIXzS8fE-Lo_7sYleJQxWzlH-NSz7ZBBwCIUeIIEd6csIeH-Wvsyf9iHDzb6l1mRhWuoUELo_60iatLVocKD0y9jBIuTAWwjs5g-gpGbKQAbE4JCyGRBn7N17VYT3WjPbQ7zojRYEP3RUDAeHIai-US_ja68zOOpjRoRiwKS5ynZbR7jLGPSBxXLJjSzCcLAcZFn3XPc4WzuNoQ4jZKEJAtRHCf7kZB5Xbirm6cv-mcljYmsqe4e3DYogNkSXnpxWLlqmmV5J72c4C6rionBq7G9yG0Mz_jqUAy0wWcqGEr7PjWE7jv4tLpzwmOOTAPUpHDe_he8Z0iE7R6PhCkH-plLoniqZGqjhznVhxXuUCdyBIWB6xrLWl-YhtK2LolHPHfLosZm0NjBqnQ9BSf2jGJwK7EyGO1B39rUwlSbFYbRxtllX8XjRSehnO7KDG-6WfYBJqP1fdbUNb-dL3nIPq4L67Gg8FpITisuuHQ4DJCtlrwVMIZBKHPRZ2vWQiVBDfrQMBuR7P5XmMySJjIr9ayWFtQ55-NhGXKjGFmPiZHIyglXvamkVt7Q1GDywaCwr6VlHIJm6IHfFr6dCpvnELK8nY5VYY5w_6Fer0bBxOz-tQxFZVxLGJ3ep82rsQVHJafQtdvpvwM9GdAZXxOdkWsXs-6N7HCQ5VLh8O7WCf8NTh8I4ViAPWafnbHmU5StWy3D57XkJAFEEgHUcgvbV58jJuKP9IqL22BWGSknNRMsOr7K6Co55QH3iuz_5vMi8AVLDYnO_WrUvo4uyaI6_pnZe7lOQPq2toD5lg1Ry4rTC2Nl0WILt9HQxQZ6c61LZ78dajNDr6_Y_ZnLwNBo4eyYgY6A_H6G_qt98MrWsudHB-AHvIMgL7HDKOsWuDbVCrn-oTrtr9NlEuOkI3Z=w512-h512-s-no?authuser=0">
+  <img align="right" alt="Edson-pic" height="150" style="border-radius:50;" src=https://i.pinimg.com/564x/58/97/4b/58974bcf9fe6b1141d77c2a834a4cf1d.jpg>
 </div>
   
   ##
