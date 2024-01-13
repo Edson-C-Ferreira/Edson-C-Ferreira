@@ -4,7 +4,7 @@
 
 - 👨‍💻 Bora programar? 😁
 - "Não existem métodos fáceis para resolver problemas difíceis, então pegue um café e vamos codar 💻"
-- café, coffee, Kaffee, caffè, koffie, кофе, kōhī, kāfēi, keopi, qahwa....☕
+- coffee☕
             
      
 
