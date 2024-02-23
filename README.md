@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=111DF7&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2092F5&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A020F5&size=30&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Edson+Ferreira;I'm+24+years+old;I+from+Brasil;I+study+cience+computer+at+UFMA;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=EF20F5&size=30&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Edson+Ferreira;I'm+24+years+old;I+from+Brasil;I+study+cience+computer+at+UFMA;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 - 👨‍💻 Bora programar? 😁
 - "Não existem métodos fáceis para resolver problemas difíceis, então pegue um café e vamos codar 💻"
